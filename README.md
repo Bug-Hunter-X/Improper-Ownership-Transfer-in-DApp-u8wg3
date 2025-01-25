@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in decentralized applications (DApps) related to ownership transfer. The bug lies in the `transferOwnership` function, which fails to include sufficient checks to ensure the validity and security of the ownership transfer process.  The solution shows how to improve the function to prevent issues.
